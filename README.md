@@ -102,9 +102,10 @@ where:
 $$\theta = \frac{1}{p+2}$$
 
 **Result plot:**
-```
-thetaEnFuncioDep.png → θ vs p: numerical vs theoretical 1/(p+2)
-```
+
+| Critical Exponent vs Interaction Strength |
+|---|
+| ![Theta vs p](figures/thetaEnFuncioDep.png) |
 
 **Key features:**
 - Critical dynamics: exponent depends on microscopic interactions
