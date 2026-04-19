@@ -1,5 +1,7 @@
 # Critical and Cooperative Phenomena — Simulations
 
+Python implementations of three core non-equilibrium growth phenomena from the Critical Phenomena and Cooperative Phenomena course, demonstrating universality classes and scaling behavior in interface dynamics.
+
 ---
 
 ## Repository layout
@@ -19,7 +21,6 @@
 
 ---
 
-Python implementations of three core non-equilibrium growth phenomena from the Critical Phenomena and Cooperative Phenomena course, demonstrating universality classes and scaling behavior in interface dynamics.
 
 ## Overview
 
